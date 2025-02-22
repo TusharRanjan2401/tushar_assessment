@@ -107,7 +107,7 @@ Each processing request is tracked in MongoDB with statuses: `pending`, `process
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/image-processing.git
+   git clone https://github.com/TusharRanjan2401/tushar_assessment.git
    ```
 2. Install dependencies:
    ```bash
