@@ -35,8 +35,8 @@ A Node.js project for asynchronous image processing using Mongoose and a webhook
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/mongoose-image-processor.git
-cd mongoose-image-processor
+git clone https://github.com/TusharRanjan2401/tushar_assessment.git
+cd image-processor
 ```
 
 ### Install Dependencies
